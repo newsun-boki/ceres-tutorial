@@ -1,0 +1,3 @@
+/home/newsun/Vision-learning/ceres/bundle_adjustment/build/CMakeFiles/rebuild_cache.dir
+/home/newsun/Vision-learning/ceres/bundle_adjustment/build/CMakeFiles/bundle_adjustment.dir
+/home/newsun/Vision-learning/ceres/bundle_adjustment/build/CMakeFiles/edit_cache.dir
